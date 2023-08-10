@@ -27,6 +27,7 @@
             <artifactId>testng</artifactId>
             <version>7.8.0</version>
             <scope>compile</scope>
+                 
         </dependency>
 
         <!--For Excel file, we use apache POI-->
